@@ -190,3 +190,13 @@ Global-Superstore-SQL-Analysis
 - Analytical Thinking
 
 ---
+
+## 📌 Project Highlights
+
+- Solved 70+ business-oriented SQL queries.
+- Worked with multiple related tables (Orders, Returns, People).
+- Applied advanced SQL concepts including CTEs, window functions, views, and indexes.
+- Analyzed customer, product, regional, and return performance.
+- Built using Oracle Database 10g XE.
+
+---
